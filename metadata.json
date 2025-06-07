@@ -1,0 +1,5 @@
+{
+  "name": "খানসামা রক্তদান গ্রুপ",
+  "description": "A web application for Khansama Blood Donation Group to manage donors, blood requests, events, and awareness information. Built with React and Tailwind CSS, in Bengali.",
+  "requestFramePermissions": []
+}
